@@ -3,7 +3,7 @@
 
 ENG
 
-- 🤔 I`m LoST and I love coding on ![Flutter](https://img.shield.io/badge/-Python-090909?style=for-the-badge&logo=python&) and [PowerShell](https://docs.microsoft.com/ru-ru/powershell)
+- 🤔 I`m LoST and I love coding on ![Python](https://img.shield.io/badge/-Python-090909?style=for-the-badge&logo=python&)(https://www.python.org) and [PowerShell](https://docs.microsoft.com/ru-ru/powershell)
 - Im currently living in [🇷🇺](https://www.youtube.com/watch?v=G1IbRujko-A&t=34s)
 
 <!--
