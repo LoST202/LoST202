@@ -1,4 +1,4 @@
-[![Header](https://github.com/LoST202/LoST202/blob/main/img/ffff.png)
+![Header](https://github.com/LoST202/LoST202/blob/main/img/ffff.png)
 ## Welcome! | Добро пожаловать! | Ласкаво просимо!
 
 ENG
