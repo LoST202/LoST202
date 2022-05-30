@@ -2,8 +2,8 @@
 
 ENG
 
-- 🤔 I`m LoST and I love coding on [Python](https://www.python.org) and [PowerShell](https://docs.microsoft.com/ru-ru/powershell/)
-- Im currently living in [🇷🇺](https://www.youtube.com/watch?v=w2UQWE5LH7k&t=1s)
+- 🤔 I`m LoST and I love coding on [Python](https://www.python.org) and [PowerShell](https://docs.microsoft.com/ru-ru/powershell)
+- Im currently living in [🇷🇺](https://www.youtube.com/watch?v=NljJfoUgjLA)
 
 <!--
 **LoST202/LoST202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
