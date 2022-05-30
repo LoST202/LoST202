@@ -1,6 +1,6 @@
-### Hi there 👋
+## Welcome 
 
-- I’m currently learning Python 
+- 🤔 I`m LoST and I love coding on [Python](https://www.python.org)
 
 <!--
 **LoST202/LoST202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
