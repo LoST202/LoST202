@@ -1,6 +1,6 @@
 ## Welcome! | Добро пожаловать! | Ласкаво просимо!
 
-- 🤔 I`m LoST and I love coding on [Python](https://www.python.org) and [PowerShell]
+- 🤔 I`m LoST and I love coding on [Python](https://www.python.org) and [PowerShell](https://docs.microsoft.com/ru-ru/powershell/)
 
 <!--
 **LoST202/LoST202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
